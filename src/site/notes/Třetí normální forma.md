@@ -6,8 +6,8 @@
 # Třetí normální forma
 #card 
 musí být v [[Druhá normální forma\|Druhá normální forma]]
-**Každý neklíčový atribut je závislý na (každém) klíči přímo a nikoliv tranzitivně**
-= nesmí: *neklíčový atribut definuje neklíč*{ #1779050807865}
+nesmí: **neklíčový atribut definuje neklíč**
+= Každý neklíčový atribut je závislý na (každém) klíči přímo a nikoliv tranzitivně{ #1779050807865}
 
 
 ---

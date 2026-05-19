@@ -6,7 +6,8 @@
 # Boyce-Coddova normální forma
 #card 
 musí být v [[Třetí normální forma\|Třetí normální forma]]
-**na levé straně** každé FA musí být **celý klíč relace**{ #1779120678785}
+**na levé straně** každé FZ musí být **celý klíč relace**
+každá levá strana FZ musí obsahovat klíč relace{ #1779120678785}
 
 
 ---

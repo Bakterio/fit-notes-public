@@ -55,6 +55,17 @@ množina všech atributů funkčně závislých na X
 *neboli:* Pokud znám $X$, co všechno znám?{ #1779048327293}
 
 
+## Kanonické pokrytí
+#card 
+zjednodušení množiny funkčních závislostí tak, že pouze jeden atribut určuje druhý
+*Z:*
+$A \to B,C$
+*Do:*
+$A \to B$
+$A \to C$
+Pokud se při dekompozici zjistí, že je nějaká FZ redundantní, odstraní se.{ #1779218239849}
+
+
 ---
 ## Anki
 
