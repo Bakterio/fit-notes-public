@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/primarni-klic/","tags":["#card"],"dg-note-properties":{"is-in-anki?":true,"cards-deck":"DBS","tags":["#card"],"aliases":["Primary key"]}}
+{"dg-publish":true,"permalink":"/primarni-klic/","dg-note-properties":{"is-in-anki?":true,"cards-deck":"DBS","tags":null,"aliases":["Primary key"]}}
 ---
 
 
@@ -13,7 +13,7 @@ neexistuje podmnožina klíče, která by také mohla být klíč{ #177283656080
 ## Postup hledání klíče relace
 #card 
 1) **vypsat atributy**, které *nejsou na ničem funkčně závislé* (nejsou v levé straně žádné funkční závislosti) => musí být v klíči
-2) udělat **tranzitivní uzávěry levý stran všech FZ**, pokud po přidání atributů z kroku 1) mám pokrytou celou relaci, *našel jsem klíč*
+2) udělat **[[Tranzitivní uzávěr\|tranzitivní uzávěry]] levý stran všech FZ**, pokud po přidání atributů z kroku 1) mám pokrytou celou relaci, *našel jsem klíč*
 3) u každého nalezeného klíče musím prokázat, že **žádná jeho podmnožina nemůže být taky klíčem** (=> musí se vyplnit *tranzitivní uzávěry všech podmnožin* všech nalezených klíčů){ #1779049258612}
 
 
