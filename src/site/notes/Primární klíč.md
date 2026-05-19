@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/primarni-klic/","dg-note-properties":{"is-in-anki?":true,"cards-deck":"DBS","tags":null,"aliases":["Primary key"]}}
+{"dg-publish":true,"permalink":"/primarni-klic/","tags":["#card"],"dg-note-properties":{"is-in-anki?":true,"cards-deck":"DBS","tags":["#card"],"aliases":["Primary key"]}}
 ---
 
 

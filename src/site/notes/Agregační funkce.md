@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/agregacni-funkce/","tags":["#databaze/sql","#card"],"dg-note-properties":{"is-in-anki?":true,"cards-deck":"DBS","tags":["#databaze/sql","#card"]}}
+{"dg-publish":true,"permalink":"/agregacni-funkce/","tags":["databaze/sql"],"dg-note-properties":{"is-in-anki?":true,"cards-deck":"DBS","tags":["databaze/sql"]}}
 ---
 
 
@@ -15,6 +15,8 @@ FROM zamestnanici
 WHERE plat < 10000
 ```{ #1777366429909}
 
+
+alsdkjfalsfj
 
 ## (Ne)ignorování NULL hodnot
 #card 
