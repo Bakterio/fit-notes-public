@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/relacni-algebra/","tags":["#dbs/relacni-algebra","#card"],"dg-note-properties":{"is-in-anki?":false,"cards-deck":"DBS","tags":["#dbs/relacni-algebra","#card"],"aliases":["RA"]}}
+{"dg-publish":true,"permalink":"/relacni-algebra/","tags":["dbs/relacni-algebra"],"dg-note-properties":{"is-in-anki?":false,"cards-deck":"DBS","tags":["dbs/relacni-algebra"],"aliases":["RA"]}}
 ---
 
 

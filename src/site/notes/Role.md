@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/role/","tags":["#card"],"dg-note-properties":{"is-in-anki?":true,"cards-deck":"DBS","tags":["#card"]}}
+{"dg-publish":true,"permalink":"/role/","dg-note-properties":{"is-in-anki?":true,"cards-deck":"DBS","tags":null}}
 ---
 
 

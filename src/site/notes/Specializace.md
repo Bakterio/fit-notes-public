@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/specializace/","tags":["#card"],"dg-note-properties":{"is-in-anki?":true,"cards-deck":"DBS","tags":["#card"],"aliases":["specializace"]}}
+{"dg-publish":true,"permalink":"/specializace/","dg-note-properties":{"is-in-anki?":true,"cards-deck":"DBS","tags":null,"aliases":["specializace"]}}
 ---
 
 

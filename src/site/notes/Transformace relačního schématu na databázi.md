@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/transformace-relacniho-schematu-na-databazi/","tags":["#dbs/relacni-algebra","#databaze/sql","#card"],"dg-note-properties":{"is-in-anki?":true,"cards-deck":"DBS","tags":["#dbs/relacni-algebra","#databaze/sql","#card"]}}
+{"dg-publish":true,"permalink":"/transformace-relacniho-schematu-na-databazi/","tags":["dbs/relacni-algebra","databaze/sql"],"dg-note-properties":{"is-in-anki?":true,"cards-deck":"DBS","tags":["dbs/relacni-algebra","databaze/sql"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/slovnik-relacni-algebry/","tags":["#databaze/sql"],"dg-note-properties":{"cards-deck":"DBS","tags":["#databaze/sql"]}}
+{"dg-publish":true,"permalink":"/slovnik-relacni-algebry/","tags":["databaze/sql"],"dg-note-properties":{"cards-deck":"DBS","tags":["databaze/sql"]}}
 ---
 
 

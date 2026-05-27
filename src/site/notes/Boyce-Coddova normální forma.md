@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/boyce-coddova-normalni-forma/","tags":["#dbs/normalizace","#card"],"dg-note-properties":{"is-in-anki?":true,"cards-deck":"DBS","tags":["#dbs/normalizace","#card"]}}
+{"dg-publish":true,"permalink":"/boyce-coddova-normalni-forma/","tags":["dbs/normalizace"],"dg-note-properties":{"is-in-anki?":true,"cards-deck":"DBS","tags":["dbs/normalizace"]}}
 ---
 
 

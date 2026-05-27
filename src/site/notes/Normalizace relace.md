@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/normalizace-relace/","tags":["#dbs/normalizace","#card"],"dg-note-properties":{"is-in-anki?":false,"cards-deck":"DBS","tags":["#dbs/normalizace","#card"]}}
+{"dg-publish":true,"permalink":"/normalizace-relace/","tags":["dbs/normalizace"],"dg-note-properties":{"is-in-anki?":false,"cards-deck":"DBS","tags":["dbs/normalizace"]}}
 ---
 
 

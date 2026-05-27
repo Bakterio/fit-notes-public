@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/coalesce/","tags":["#databaze/sql","#card"],"dg-note-properties":{"is-in-anki?":true,"cards-deck":"DBS","tags":["#databaze/sql","#card"]}}
+{"dg-publish":true,"permalink":"/coalesce/","tags":["databaze/sql"],"dg-note-properties":{"is-in-anki?":true,"cards-deck":"DBS","tags":["databaze/sql"]}}
 ---
 
 

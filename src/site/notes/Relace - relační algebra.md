@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/relace-relacni-algebra/","tags":["#card"],"dg-note-properties":{"is-in-anki?":true,"cards-deck":"DBS","tags":["#card"],"aliases":["Relace - RA"]}}
+{"dg-publish":true,"permalink":"/relace-relacni-algebra/","dg-note-properties":{"is-in-anki?":true,"cards-deck":"DBS","tags":null,"aliases":["Relace - RA"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/prirozene-spojeni/","tags":["#dbs/relacni-algebra","#card"],"dg-note-properties":{"is-in-anki?":true,"cards-deck":"DBS","tags":["#dbs/relacni-algebra","#card"],"aliases":["Natural join"]}}
+{"dg-publish":true,"permalink":"/prirozene-spojeni/","tags":["dbs/relacni-algebra"],"dg-note-properties":{"is-in-anki?":true,"cards-deck":"DBS","tags":["dbs/relacni-algebra"],"aliases":["Natural join"]}}
 ---
 
 

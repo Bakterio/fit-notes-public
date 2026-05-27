@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/slaba-entita/","tags":["#card"],"dg-note-properties":{"is-in-anki?":true,"cards-deck":"DBS","tags":["#card"]}}
+{"dg-publish":true,"permalink":"/slaba-entita/","dg-note-properties":{"is-in-anki?":true,"cards-deck":"DBS","tags":null}}
 ---
 
 

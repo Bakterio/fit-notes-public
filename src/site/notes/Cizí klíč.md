@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cizi-klic/","tags":["#card"],"dg-note-properties":{"is-in-anki?":true,"cards-deck":"DBS","tags":["#card"],"aliases":["Foreign key"]}}
+{"dg-publish":true,"permalink":"/cizi-klic/","dg-note-properties":{"is-in-anki?":true,"cards-deck":"DBS","tags":null,"aliases":["Foreign key"]}}
 ---
 
 

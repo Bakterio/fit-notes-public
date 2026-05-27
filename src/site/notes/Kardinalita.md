@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kardinalita/","tags":["#card"],"dg-note-properties":{"is-in-anki?":true,"cards-deck":"DBS","tags":["#card"]}}
+{"dg-publish":true,"permalink":"/kardinalita/","dg-note-properties":{"is-in-anki?":true,"cards-deck":"DBS","tags":null}}
 ---
 
 

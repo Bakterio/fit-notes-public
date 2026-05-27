@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/transakce/","tags":["#databaze","#card"],"dg-note-properties":{"is-in-anki?":true,"cards-deck":"DBS","tags":["#databaze","#card"]}}
+{"dg-publish":true,"permalink":"/transakce/","tags":["databaze"],"dg-note-properties":{"is-in-anki?":true,"cards-deck":"DBS","tags":["databaze"]}}
 ---
 
 

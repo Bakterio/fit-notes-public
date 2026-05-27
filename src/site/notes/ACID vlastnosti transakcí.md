@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/acid-vlastnosti-transakci/","tags":["#databaze","#card"],"dg-note-properties":{"is-in-anki?":true,"cards-deck":"DBS","tags":["#databaze","#card"]}}
+{"dg-publish":true,"permalink":"/acid-vlastnosti-transakci/","tags":["databaze"],"dg-note-properties":{"is-in-anki?":true,"cards-deck":"DBS","tags":["databaze"]}}
 ---
 
 
