@@ -9,14 +9,12 @@ views:
     name: Table
     filters:
       and:
+        - note["dg-publish"] == true
         - note["cards-deck"] == "DBS"
-    order:
-      - file.name
-      - file.tags
-      - is-in-anki?
-      - file.ctime
+        - file.ext == "md"
     sort:
-      - property: is-in-anki?
+      - property: file.name
         direction: ASC
 
 ```
+
