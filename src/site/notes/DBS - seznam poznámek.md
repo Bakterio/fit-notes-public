@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/dbs-seznam-poznamek/","dg-note-properties":{}}
 ---
 
-
 ```base
 views:
   - type: table
@@ -12,9 +11,9 @@ views:
         - note["dg-publish"] == true
         - note["cards-deck"] == "DBS"
         - file.ext == "md"
+    order:
+      - file.name
     sort:
       - property: file.name
         direction: ASC
-
 ```
-
